@@ -5,9 +5,9 @@
 <h1 align="center">小红书爆款笔记拆解工作流</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/类型-Skill-7F77DD" alt="类型">
-  <img src="https://img.shields.io/badge/协议-MIT-1D9E75" alt="协议">
-  <img src="https://img.shields.io/badge/版本-1.0.0-D85A30" alt="版本">
+  <img src="https://img.shields.io/badge/Skill-xiaohongshu--note--decomposer-7F77DD" alt="Skill">
+  <img src="https://img.shields.io/badge/License-MIT-1D9E75" alt="License MIT">
+  <img src="https://img.shields.io/badge/Version-1.0.0-D85A30" alt="Version">
 </p>
 
 把一条小红书爆款笔记（链接 / 截图 / 全文文字），按「选题 → 标题 → 封面 → 正文 → 标签 → 评论区」六维度结构化拆解，提炼可复用的钩子公式、标注不可复制因素，并映射成你赛道的可执行动作。
